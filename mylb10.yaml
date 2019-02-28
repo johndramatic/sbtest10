@@ -1,5 +1,5 @@
 --- 
-name: mylb9
+name: mylb10
 namespace: com.citrix.adc.commontypes
 version: "1.0"
 schema-version: "1.0"
@@ -15,10 +15,10 @@ import-stylebooks:
     version: "10.5"
     
 parameters-default-sources:
-  - cmtypes::lbname9
-  - cmtypes::lbip9
-  - cmtypes::lbport9
-  - cmtypes::lbsvctype9
+  - cmtypes::lbname10
+  - cmtypes::lbip10
+  - cmtypes::lbport10
+  - cmtypes::lbsvctype10
 
 
 components: 
